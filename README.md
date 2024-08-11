@@ -5,21 +5,21 @@ If I were to update an existing hack, or publish a new one, this will be the pla
 
 A list of the hacks available in releases is as follos:
 
-·Final Fantasy I Dawn of Souls Maeson
-·Final Fantasy III Maeson
-·Breath of Fire II Maeson
-·Shining Force II Maeson 
-·Skies of Arcadia Legends Maeson
-·Pokémon Crystal Maeson
-·Digimon World Maeson
-·Chocobo Kwehst (Patch for the game Moai-Kun)
+·Final Fantasy I Dawn of Souls Maeson</br>
+·Final Fantasy III Maeson</br>
+·Breath of Fire II Maeson</br>
+·Shining Force II Maeson</br>
+·Skies of Arcadia Legends Maeson</br>
+·Pokémon Crystal Maeson</br>
+·Digimon World Maeson</br>
 
-·Civilization SNES UI Improvement
-·Breath of Fire II Double Exp & Zenny (for unmodded the game)
-·Castlevania Harmony of Dissonance - Juste Sprite Changes
-·Super Luigi Bros. 3
-·Fester's Quest - PAL changes to NTSC
-·Gamecube PAL 60Hz Patches
+·Chocobo Kwehst (Patch for the game Moai-Kun)</br>
+·Civilization SNES UI Improvement</br>
+·Breath of Fire II Double Exp & Zenny (for unmodded the game)</br>
+·Castlevania Harmony of Dissonance - Juste Sprite Changes</br>
+·Super Luigi Bros. 3</br>
+·Fester's Quest - PAL changes to NTSC</br>
+·Gamecube PAL 60Hz Patches</br>
 
-·Mole Mania Spanish Translation
-·Final Fantasy III Spanish Translation
+·Mole Mania Spanish Translation</br>
+·Final Fantasy III Spanish Translation</br>
